@@ -1,5 +1,3 @@
-# Three-Shapes
-shapes for homework
 
 # Shape 1 
 void setup() {
